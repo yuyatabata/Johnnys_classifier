@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>判定結果</title>
+</head>
+<body>
+    <h1>判定結果</h1>
+    <p>ジャニーズ係数：{{ score }}</p>
+    <p class="text-center mb-5">（ジャニーズ係数は値が小さいほどジャニーズ系の顔であることを示します。）</p>
+	<img src="../uploads/{{ file }}" alt="あなたの顔画像" width="193" height="auto">
+    {% if predicted == 0 %}
+        <p class="text-center">あなたの顔はまさにジャニーズ系です。やったね！
+        </p>
+    {% else %}
+        <p class="text-center">残念！あなたの顔はジャニーズ系ではありません。
+        </p>
+    {% endif %}
+</body>
+
+</html>
