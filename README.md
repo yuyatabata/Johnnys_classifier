@@ -12,10 +12,14 @@
 
 ![スクリーンショット 2019-08-02 15 32 17](https://user-images.githubusercontent.com/27131456/62350667-5fb7ed80-b53e-11e9-947e-e4b636d14246.png)
 
+<br>
 3. ジャニーズ係数と共に判別結果が表示
+
 ![スクリーンショット 2019-08-02 15 32 41](https://user-images.githubusercontent.com/27131456/62350687-752d1780-b53e-11e9-8644-cfb20f3398ac.png)
 
+<br>
 4. ジャニーズ系ではなかったパターン 
+
 ![スクリーンショット 2019-08-02 15 33 03](https://user-images.githubusercontent.com/27131456/62350702-81b17000-b53e-11e9-908d-990f30c4fb8b.png)
 
 
